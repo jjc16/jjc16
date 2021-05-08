@@ -1,10 +1,10 @@
-**Summary:
+**Summary:**
 
 Hello world!
 
 This repository is a chance for me to work on projects that I find interesting and/or preserve code that I generate through my own efforts that I find interesting.
 
-**Background:
+**Background:**
 
 I am a PhD level data scientist that currently works in industry. My PhD is in Physics from a large state university, and I have over 10 years of post graduate 
 experience. 
