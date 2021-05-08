@@ -4,7 +4,8 @@ Hello world!
 
 This repository is a chance for me to work on projects that I find interesting and/or preserve code that I generate through my own efforts that I find interesting.
 
-## Background: I am a PhD level data scientist that currently works in industry. My PhD is in Physics from a large state university, and I have over 10 years of post graduate 
+## Background: 
+I am a PhD level data scientist that currently works in industry. My PhD is in Physics from a large state university, and I have over 10 years of post graduate 
 experience. 
 
 My research and coding interests include artificial intelligence, machine learning, and mathematical physics, optimization problems, and theoretical computer science. I have
