@@ -14,6 +14,6 @@ extensive experience in several machine learning subfields, including reinforcem
 methods, including principal component analysis, tensor factorization, ensembles, and clustering.
 
 If you want to reach me for any reason, please email: j j c 1 6 _ 1  [at]  y a h o o. c o m. If you do take the time to email me, please make sure that it's for something
-intersting (or lucrative) or I am very likely to ignore you. In other words, please don't email me for help with your Coursera, etc. project. I have better things to do in life. 
+intersting (or lucrative) or I am very likely to ignore you. In other words, please don't email me for help with your Coursera, etc. project.
 
 Cheers!
